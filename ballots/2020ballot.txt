@@ -1,0 +1,12 @@
+Joe,Biden,0,0
+Donald,Trump,1,0
+Howie,Hawkins,2,0
+Jo,Jorgensen,3,0
+Dan,Sullivan,4,1
+Jed,Whittaker,5,1
+Al,Gross,6,1
+Edgar,Blatchford,7,1
+Don,Young,8,2
+Alyse,Galvin,9,2
+David,Bronson,10,2
+Forrest,Dunbar,11,2
